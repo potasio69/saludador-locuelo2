@@ -1,0 +1,6 @@
+def saludador():
+	print "hola"
+	print "muyt buenas a todos"
+	print "guapisimos"
+	print "aqui vegetta 777"
+saludador()
